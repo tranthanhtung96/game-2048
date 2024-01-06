@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/game-2048",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -23,5 +23,5 @@
     "tailwindcss": "^3.4.0",
     "vite": "^5.0.8"
   },
-  "homepage": "/game-2048"
+  "homepage": "https://tranthanhtung96.github.io/game-2048"
 }
